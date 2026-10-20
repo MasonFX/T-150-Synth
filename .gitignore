@@ -1,0 +1,7 @@
+build/
+out/
+stage/
+*.zip
+.vs/
+.vscode/
+.DS_Store
